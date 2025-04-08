@@ -1,4 +1,4 @@
-class ArvoreVermelhaPreta {
+public class ArvorePV {
     private NoPV raiz;
     private final boolean VERMELHO = true;
     private final boolean PRETO = false;

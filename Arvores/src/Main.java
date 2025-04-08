@@ -1,10 +1,9 @@
 import Arvore.Arvore;
+import ArvoreB.ArvoreB;
 
 public class Main {
     public static void main(String[] args) {
-        ArvoreAVL tree = new ArvoreAVL();
-
-        tree.insert(21, tree.getRaiz());
-        tree.printaArvore(tree.getRaiz());
+       ArvoreAVL arv = new ArvoreAVL();
+       ArvorePV arvPv = new ArvorePV();
     }
 } 
