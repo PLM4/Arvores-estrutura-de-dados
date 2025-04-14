@@ -1,3 +1,5 @@
+package ArvoreAVL;
+
 public class NoAVL {
     private int valor;
     private NoAVL pai;

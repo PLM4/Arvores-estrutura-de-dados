@@ -1,3 +1,5 @@
+package ArvorePV;
+
 public class ArvorePV {
     private NoPV raiz;
     private final boolean VERMELHO = true;
